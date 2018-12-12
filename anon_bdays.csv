@@ -2428,3 +2428,15 @@
 2425,06/11/2001
 2426,11/04/2003
 
+import random
+def match(n,size):
+  match_counter = 0
+  unmatched_counter = 0
+  random.sample(n)
+  if random.sample == n
+    match_counter = match_counter + 1
+  if random.sample(n) != unmatched_counter + 1
+  return float(match_counter/n)
+  
+  
+
