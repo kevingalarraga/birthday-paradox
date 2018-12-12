@@ -2438,5 +2438,10 @@ def match(n,size):
   if random.sample(n) != unmatched_counter + 1
   return float(match_counter/n)
   
+import matplotlib.pyplot as plt
+plt.plot(p/n)
+p=birthdays
+n=selected birthday
+  
   
 
